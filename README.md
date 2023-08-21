@@ -1,4 +1,6 @@
-# udd-da
+# Proyecto curso Análisis de Datos
+
+Magíster en Data Science - Universidad del Desarrollo (Chile)
 
 Integrantes:<BR>
 - Patricio Fonseca
