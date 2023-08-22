@@ -1,6 +1,7 @@
 # Proyecto curso Análisis de Datos
 
-Magíster en Data Science - Universidad del Desarrollo (Chile)
+Magíster en Data Science - Universidad del Desarrollo (Chile)<BR>
+Curso: Análisis de datos
 
 Profesora:<BR>
 - Melanie Oyarzún
@@ -15,5 +16,6 @@ Base de datos a trabajar:
 - Datos sobre crecimiento de países y complejidad económica
 
 Preguntas de investigación e hipótesis:
-1. ¿Cuales son los factores que influyen positivamente en el crecimiento económico de un país?
+1. ¿Cuales son los factores que influyen positivamente en el crecimiento económico de los países?<BR>
+Posible hipotesis
 2. TBD
