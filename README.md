@@ -17,6 +17,6 @@ Base de datos a trabajar:
 
 Preguntas de investigación e hipótesis:
 1. ¿En qué medida influyen factores como la educación y la inversión en investigación y desarrollo (I+D) en el crecimiento económico de un país?<BR>
-*Hipótesis:* Se espera que los países que priorizan la educación y la inversión en I+D experimenten un crecimiento económico más rápido. La educación puede mejorar la fuerza laboral, aumentar la innovación y mejorar la productividad. A su vez, la inversión en I+D puede llevar a nuevas tecnologías y procesos que impulsen la competitividad y la expansión económica.
+*Hipótesis nula:* La educación de sus habitantes y la inversión en I+D no inciden en un crecimiento económico más rápido.
 2. ¿Existe una relación entre la estabilidad política y el crecimiento económico?<BR>
-*Hipótesis:* Un entorno político más estable posibilita a los países a tener un crecimiento económico más consistente y sostenible. La estabilidad política puede atraer inversiones extranjeras y fomentar la confianza empresarial, lo que a su vez podría contribuir a un aumento en la producción y el desarrollo económico.
+*Hipótesis nula:* Un entorno político más estable no incide en un crecimiento económico sostenible en los países.
