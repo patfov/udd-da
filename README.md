@@ -3,15 +3,6 @@
 Magíster en Data Science - Universidad del Desarrollo (Chile)<BR>
 Curso: Análisis de datos
 
-Profesora:<BR>
-- Melanie Oyarzún
-
-Integrantes:<BR>
-- Patricio Fonseca
-- Ariel González
-- Hans Munster
-- Víctor Zúñiga
-
 Base de datos a trabajar:
 - Datos sobre crecimiento de países y complejidad económica
 
